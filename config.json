@@ -61,12 +61,12 @@
     "title": "Professional Experience",
     "jobs": [
       {
-        "company": "Your Company Name",
-        "role": "Your Job Title",
-        "date": "Start Date - Present",
+        "company": "CGI",
+        "role": "lead",
+        "date": "14032022 - Present",
         "responsibilities": [
-          "Add your key responsibilities and achievements here",
-          "Include specific technologies you worked with",
+          "Devops engineer",
+          "aws,azure devvops, linux",
           "Mention any notable projects or impact metrics",
           "Update this section with your actual work experience"
         ],
